@@ -30,6 +30,10 @@ function prependKitten(name){
   return nKittens;
 }
 
+
+
+/*
 console.log(kittens);
 console.log(appendKitten("something"));
 console.log(kittens);
+*/
