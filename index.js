@@ -25,7 +25,7 @@ function appendKitten(name){
 }
 
 function prependKitten(name){
-  var nKittens = kittens;
+  var nKittens = kittens.slice();
   nKittens.unshift(name);
   return nKittens;
 }
