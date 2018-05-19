@@ -30,6 +30,8 @@ function prependKitten(name){
   return nKittens;
 }
 
+removeLastKitten
+
 
 
 /*
